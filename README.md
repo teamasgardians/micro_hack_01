@@ -15,6 +15,8 @@ The token pric is determined by the recycled counterpart of the waste material i
 
 
 Animals(Forest)
+
+
 	1. Animal extinction is hitting the life cycle dynamics, so linking those animals(in forest) for safety,
        	   helping find preys(based on the position/number of preys) for those animal, migrating to different places
        	   etc..
